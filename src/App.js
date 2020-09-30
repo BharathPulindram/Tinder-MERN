@@ -1,10 +1,14 @@
 import React from "react";
 import "./App.css";
+import Header from "./Components/Header";
 
 function App() {
   return (
     <div className="app">
-      <h1>Tinder MErn</h1>
+      <Header />
+      {/* Header
+      TinderCards
+      Swipe Buttons */}
     </div>
   );
 }
