@@ -16,7 +16,7 @@ function Header() {
         src="https://globaldatinginsights.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-17-at-10.04.531.png"
       />
       <IconButton>
-        <ForumIcon className="header__icon" fontSize="large" />
+        <ForumIcon fontSize="large" className="header__icon" />
       </IconButton>
     </div>
   );
